@@ -1,4 +1,4 @@
-// Problem 24 Max Block
+// Max Block
 
 // Given an input string, set result to the length of the largest "block" in the string.
 // A block is a run of adjacent chars that are the same.
