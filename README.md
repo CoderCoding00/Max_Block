@@ -8,4 +8,5 @@ A block is a run of adjacent chars that are the same.
 ```
 
 # Screen Shot of the Test Output 
+<img width="635" alt="Max_Block" src="https://user-images.githubusercontent.com/107374333/213940907-ee2fc254-c34f-419e-999c-cb1a20ff0860.png">
 
